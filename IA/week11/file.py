@@ -11,7 +11,6 @@ matches["hour"] = matches["time"].str.replace(
 matches["day_code"] = matches["date"].dt.dayofweek
 matches["target"] = (matches["result"] == "W").astype("int")
 matches["season"] = matches["season"].astype("category").cat.codes
-
 matches["xg"] = matches["xg"].astype("category").cat.codes
 matches["xga"] = matches["xga"].astype("category").cat.codes
 matches["referee_code"] = matches["referee"].astype("category").cat.codes
@@ -20,7 +19,6 @@ matches["formation"] = matches["formation"].astype("category").cat.codes
 matches["kp"] = matches["kp"].astype("category").cat.codes
 matches["sca"] = matches["sca"].astype("category").cat.codes
 
-# "kp","p_third","ppa","crs_pa","prog","att_third","att_pen","sca","gca","tb"
 rf = RandomForestClassifier(
     n_estimators=200, min_samples_split=10, random_state=2)
 train = matches[matches["date"] < "2022-08-13"]
@@ -72,7 +70,6 @@ combined["date"] = pd.to_datetime(combined["date"])
 combined = combined[["date", "team", "opponent", "predicted"]]
 combined["predicted"] = combined["predicted"].map(
     {1: "win", 0: "lose or draw"})
-# combined["actual"] = combined["actual"].map({1: "win", 0: "lose or draw"})
 
 
 class MissingDict(dict):

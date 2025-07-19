@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataScience/.idea/DataScience.iml" filepath="$PROJECT_DIR$/../DataScience/.idea/DataScience.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fake News/.idea/Fake News.iml" filepath="$PROJECT_DIR$/../Fake News/.idea/Fake News.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_Python/.idea/My_Python.iml" filepath="$PROJECT_DIR$/../My_Python/.idea/My_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Numpy/.idea/Numpy.iml" filepath="$PROJECT_DIR$/../Numpy/.idea/Numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PandasPractice/.idea/PandasPractice.iml" filepath="$PROJECT_DIR$/../PandasPractice/.idea/PandasPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sci-kit.iml" filepath="$PROJECT_DIR$/.idea/Sci-kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Seaborn/.idea/Seaborn.iml" filepath="$PROJECT_DIR$/../Seaborn/.idea/Seaborn.iml" />
+    </modules>
+  </component>
+</project>

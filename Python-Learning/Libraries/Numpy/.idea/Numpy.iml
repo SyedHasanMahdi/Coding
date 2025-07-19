@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PandasPractice" />
+    <orderEntry type="module" module-name="Seaborn" />
+    <orderEntry type="module" module-name="Keras" />
+    <orderEntry type="module" module-name="DataScience" />
+    <orderEntry type="module" module-name="Sci-kit" />
+  </component>
+</module>
