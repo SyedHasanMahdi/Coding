@@ -41,13 +41,82 @@ cat("Total votes: ", total)
 
 # Demonstrates defining a parameter
 get_votes <- function(prompt) {
-  votes <- as.integer(readline(prompt)
+  votes <- as.integer(readline(prompt))
   return(votes)
 }
-mario <- get_votes()
-peach <- get_votes()
-bowser <- get_votes()
+mario <- get_votes("Mario: ")
+peach <- get_votes("Peach: ")
+bowser <- get_votes("Bowser: ")
 
 total <- sum(mario,peach, bowser)
 cat("Total votes: ", total)
+
+
+
+
+
+
+# Demonstrates defining a parameter with a default value
+get_votes <- function(prompt = "Enter votes; ") {
+  votes <- as.integer(readline(prompt))
+  return(votes)
+}
+mario <- get_votes("Mario: ")
+peach <- get_votes("Peach: ")
+bowser <- get_votes("Bowser: ")
+
+total <- sum(mario,peach, bowser)
+cat("Total votes: ", total)
+
+
+
+
+
+
+# Demonstrates exact argument matching
+
+get_votes <- function(prompt = "Enter votes: ") {
+  votes <- as.integer(readline(prompt))
+}
+
+mario <- get_votes(prompt = "Mario: ")
+peach <- get_votes(prompt = "Peach: ")
+bowser <- get_votes(prompt = "Bowser: ")
+
+total <- sum(mario, peach, bowser)
+cat("Total votes:", total)
+
+
+
+
+
+
+
+
+
+
+
+
+# Demonstrates exact argument matching
+
+get_votes <- function(prompt = "Enter votes: ") {
+  votes <- suppressWarnings(as.integer(readline(prompt)))
+  if (is.na(votes)) {
+    return(0)
+  } else {
+    return(votes)
+  }
+}
+
+get_votes <- function(prompt = "Enter votes: ") {
+  votes <- suppressWarnings(as.integer(readline(prompt)))
+  return(ifelse(is.na(votes), 0, votes))
+}
+
+mario <- get_votes(prompt = "Mario: ")
+peach <- get_votes(prompt = "Peach: ")
+bowser <- get_votes(prompt = "Bowser: ")
+
+total <- sum(mario, peach, bowser)
+cat("Total votes:", total)
 

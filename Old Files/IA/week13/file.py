@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, precision_score
 
-matches = pd.read_csv("C:\Coding\IA\week13\main17-23.csv")
+matches = pd.read_csv("C:\Coding\Old Files\IA\week13\main17-23.csv")
 matches["date"] = pd.to_datetime(matches["date"])
 matches["venue_code"] = matches["venue"].astype("category").cat.codes
 matches["opp_code"] = matches["opponent"].astype("category").cat.codes
@@ -81,6 +81,6 @@ map_values = {"Brighton and Hove Albion": "Brighton", "Manchester Utd": "Manches
 mapping = MissingDict(**map_values)
 combined["team"] = combined["team"].map(mapping)
 
-combined.to_csv("C:\Coding\IA\week13\FormattedDF2.csv")
+combined.to_csv("C:\Coding\Old Files\IA\week13\FormattedDF2.csv")
 
 print(error)

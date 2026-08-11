@@ -1,0 +1,8 @@
+load(file = "zelda.RData")
+zelda <-zelda |>
+  group_by(title) |>
+  slice_min(order_by = year) |>
+  filter(str_count(producers, ",") + 1 > 1) |> 
+  arrange(year, title, system) |>
+  ungroup()
+save(zelda, file = "4.RData")

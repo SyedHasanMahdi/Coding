@@ -4,7 +4,7 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-df = pd.read_csv('C:\Coding\IA\week11\FormattedDF2.csv').drop(
+df = pd.read_csv('C:\Coding\Old Files\IA\week13\FormattedDF2.csv').drop(
     ["Unnamed: 0"], axis=1)
 
 

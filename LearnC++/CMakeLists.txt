@@ -1,0 +1,64 @@
+cmake_minimum_required(VERSION 4.2)
+project(LearnC__)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+include_directories(HelloWorld)
+
+add_executable(LearnC__
+        HelloWorld/HelloWorld.cpp
+        "HelloWorld/CompilingandExcecuting.cpp"
+        HelloWorld/Comments.cpp
+        HelloWorld/initials.cpp
+        Variables/Variables.cpp
+        Variables/Temp.cpp
+        Variables/review.cpp
+        Variables/dog_years.cpp
+        Variables/Datatypes.cpp
+        ConditionalsAndLogic/if.cpp
+        ConditionalsAndLogic/logicaloperator.cpp
+        Loops/While.cpp
+        Loops/For.cpp
+        Loops/Bugs.cpp
+        Vectors/creating.cpp
+        Vectors/arrays.cpp
+        Functions/functions.cpp
+        Functions/ScopeAndFlexibility.cpp
+        Functions/main.cpp
+        Functions/seperate_functions.cpp
+        Functions/MakingYourOwnHeader.cpp
+        Functions/my_functions.h
+        Functions/my_functions.cpp
+        Functions/my_functions.h
+        Functions/InlineFunctions/main.cpp
+        Functions/InlineFunctions/night.cpp
+        Functions/InlineFunctions/night.h
+        Functions/InlineFunctions/InlineFunctions.h
+        Functions/InlineFunctions/inlinefunctions.h
+        Functions/DefaultArguments.cpp
+        Functions/DefaultArguments/defaultargs.cpp
+        Functions/DefaultArguments/defaultargs.cpp
+        Functions/DefaultArguments/defaultargs.cpp
+        Functions/DefaultArguments/main.cpp
+        Functions/DefaultArguments/coffee.h
+        Functions/DefaultArguments/coffee.cpp
+        Functions/FunctionOverload/FunctionOverload.cpp
+        Functions/FunctionOverload/main.cpp
+        Functions/FunctionOverload/num_ops.h
+        Functions/FunctionOverload/num_ops.cpp
+        Functions/FunctionTemplates/FunctionTemplates.cpp
+        Functions/FunctionTemplates/main.cpp
+        Functions/FunctionTemplates/numbers.h
+        Functions/FunctionTemplates/numbers.cpp
+        Classes/song.cpp
+        Classes/song.h
+        Classes/City.cpp
+        Classes/City.h
+        Classes/City.cpp
+        Functions/DefaultArguments.cpp
+        Classes/song.cpp
+        Classes/music.cpp
+        ReferencesAndPointers/References.cpp
+        ReferencesAndPointers/Pointers.cpp
+        ReferencesAndPointers/ManualMemoryManagement.cpp)

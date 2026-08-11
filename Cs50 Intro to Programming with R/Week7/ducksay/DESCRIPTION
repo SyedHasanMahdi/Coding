@@ -1,0 +1,9 @@
+Package: ducksay
+Title: Duck Say
+Description: Say hello with a duck.
+Version: 1.0
+Authors@R: person("Carter", "Zenke", email = "carter@cs50.harvard.edu", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
