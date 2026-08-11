@@ -1,0 +1,242 @@
+[
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\HelloWorld\\HelloWorld.cpp.obj -c C:\\Coding\\LearnC++\\HelloWorld\\HelloWorld.cpp",
+  "file": "C:/Coding/LearnC++/HelloWorld/HelloWorld.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/HelloWorld/HelloWorld.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\HelloWorld\\CompilingandExcecuting.cpp.obj -c C:\\Coding\\LearnC++\\HelloWorld\\CompilingandExcecuting.cpp",
+  "file": "C:/Coding/LearnC++/HelloWorld/CompilingandExcecuting.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/HelloWorld/CompilingandExcecuting.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\HelloWorld\\Comments.cpp.obj -c C:\\Coding\\LearnC++\\HelloWorld\\Comments.cpp",
+  "file": "C:/Coding/LearnC++/HelloWorld/Comments.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/HelloWorld/Comments.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\HelloWorld\\initials.cpp.obj -c C:\\Coding\\LearnC++\\HelloWorld\\initials.cpp",
+  "file": "C:/Coding/LearnC++/HelloWorld/initials.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/HelloWorld/initials.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Variables\\Variables.cpp.obj -c C:\\Coding\\LearnC++\\Variables\\Variables.cpp",
+  "file": "C:/Coding/LearnC++/Variables/Variables.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Variables/Variables.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Variables\\Temp.cpp.obj -c C:\\Coding\\LearnC++\\Variables\\Temp.cpp",
+  "file": "C:/Coding/LearnC++/Variables/Temp.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Variables/Temp.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Variables\\review.cpp.obj -c C:\\Coding\\LearnC++\\Variables\\review.cpp",
+  "file": "C:/Coding/LearnC++/Variables/review.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Variables/review.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Variables\\dog_years.cpp.obj -c C:\\Coding\\LearnC++\\Variables\\dog_years.cpp",
+  "file": "C:/Coding/LearnC++/Variables/dog_years.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Variables/dog_years.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Variables\\Datatypes.cpp.obj -c C:\\Coding\\LearnC++\\Variables\\Datatypes.cpp",
+  "file": "C:/Coding/LearnC++/Variables/Datatypes.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Variables/Datatypes.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\ConditionalsAndLogic\\if.cpp.obj -c C:\\Coding\\LearnC++\\ConditionalsAndLogic\\if.cpp",
+  "file": "C:/Coding/LearnC++/ConditionalsAndLogic/if.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/ConditionalsAndLogic/if.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\ConditionalsAndLogic\\logicaloperator.cpp.obj -c C:\\Coding\\LearnC++\\ConditionalsAndLogic\\logicaloperator.cpp",
+  "file": "C:/Coding/LearnC++/ConditionalsAndLogic/logicaloperator.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/ConditionalsAndLogic/logicaloperator.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Loops\\While.cpp.obj -c C:\\Coding\\LearnC++\\Loops\\While.cpp",
+  "file": "C:/Coding/LearnC++/Loops/While.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Loops/While.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Loops\\For.cpp.obj -c C:\\Coding\\LearnC++\\Loops\\For.cpp",
+  "file": "C:/Coding/LearnC++/Loops/For.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Loops/For.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Loops\\Bugs.cpp.obj -c C:\\Coding\\LearnC++\\Loops\\Bugs.cpp",
+  "file": "C:/Coding/LearnC++/Loops/Bugs.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Loops/Bugs.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Vectors\\creating.cpp.obj -c C:\\Coding\\LearnC++\\Vectors\\creating.cpp",
+  "file": "C:/Coding/LearnC++/Vectors/creating.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Vectors/creating.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Vectors\\arrays.cpp.obj -c C:\\Coding\\LearnC++\\Vectors\\arrays.cpp",
+  "file": "C:/Coding/LearnC++/Vectors/arrays.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Vectors/arrays.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\functions.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\functions.cpp",
+  "file": "C:/Coding/LearnC++/Functions/functions.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/functions.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\ScopeAndFlexibility.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\ScopeAndFlexibility.cpp",
+  "file": "C:/Coding/LearnC++/Functions/ScopeAndFlexibility.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/ScopeAndFlexibility.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\main.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\main.cpp",
+  "file": "C:/Coding/LearnC++/Functions/main.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/main.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\seperate_functions.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\seperate_functions.cpp",
+  "file": "C:/Coding/LearnC++/Functions/seperate_functions.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/seperate_functions.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\MakingYourOwnHeader.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\MakingYourOwnHeader.cpp",
+  "file": "C:/Coding/LearnC++/Functions/MakingYourOwnHeader.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/MakingYourOwnHeader.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\my_functions.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\my_functions.cpp",
+  "file": "C:/Coding/LearnC++/Functions/my_functions.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/my_functions.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\InlineFunctions\\main.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\InlineFunctions\\main.cpp",
+  "file": "C:/Coding/LearnC++/Functions/InlineFunctions/main.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/InlineFunctions/main.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\InlineFunctions\\night.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\InlineFunctions\\night.cpp",
+  "file": "C:/Coding/LearnC++/Functions/InlineFunctions/night.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/InlineFunctions/night.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\DefaultArguments.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\DefaultArguments.cpp",
+  "file": "C:/Coding/LearnC++/Functions/DefaultArguments.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/DefaultArguments.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\DefaultArguments\\defaultargs.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\DefaultArguments\\defaultargs.cpp",
+  "file": "C:/Coding/LearnC++/Functions/DefaultArguments/defaultargs.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/DefaultArguments/defaultargs.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\DefaultArguments\\main.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\DefaultArguments\\main.cpp",
+  "file": "C:/Coding/LearnC++/Functions/DefaultArguments/main.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/DefaultArguments/main.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\DefaultArguments\\coffee.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\DefaultArguments\\coffee.cpp",
+  "file": "C:/Coding/LearnC++/Functions/DefaultArguments/coffee.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/DefaultArguments/coffee.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\FunctionOverload\\FunctionOverload.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\FunctionOverload\\FunctionOverload.cpp",
+  "file": "C:/Coding/LearnC++/Functions/FunctionOverload/FunctionOverload.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/FunctionOverload/FunctionOverload.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\FunctionOverload\\main.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\FunctionOverload\\main.cpp",
+  "file": "C:/Coding/LearnC++/Functions/FunctionOverload/main.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/FunctionOverload/main.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\FunctionOverload\\num_ops.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\FunctionOverload\\num_ops.cpp",
+  "file": "C:/Coding/LearnC++/Functions/FunctionOverload/num_ops.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/FunctionOverload/num_ops.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\FunctionTemplates\\FunctionTemplates.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\FunctionTemplates\\FunctionTemplates.cpp",
+  "file": "C:/Coding/LearnC++/Functions/FunctionTemplates/FunctionTemplates.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/FunctionTemplates/FunctionTemplates.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\FunctionTemplates\\main.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\FunctionTemplates\\main.cpp",
+  "file": "C:/Coding/LearnC++/Functions/FunctionTemplates/main.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/FunctionTemplates/main.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Functions\\FunctionTemplates\\numbers.cpp.obj -c C:\\Coding\\LearnC++\\Functions\\FunctionTemplates\\numbers.cpp",
+  "file": "C:/Coding/LearnC++/Functions/FunctionTemplates/numbers.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Functions/FunctionTemplates/numbers.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Classes\\song.cpp.obj -c C:\\Coding\\LearnC++\\Classes\\song.cpp",
+  "file": "C:/Coding/LearnC++/Classes/song.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Classes/song.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Classes\\City.cpp.obj -c C:\\Coding\\LearnC++\\Classes\\City.cpp",
+  "file": "C:/Coding/LearnC++/Classes/City.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Classes/City.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\Classes\\music.cpp.obj -c C:\\Coding\\LearnC++\\Classes\\music.cpp",
+  "file": "C:/Coding/LearnC++/Classes/music.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/Classes/music.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\ReferencesAndPointers\\References.cpp.obj -c C:\\Coding\\LearnC++\\ReferencesAndPointers\\References.cpp",
+  "file": "C:/Coding/LearnC++/ReferencesAndPointers/References.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/ReferencesAndPointers/References.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\ReferencesAndPointers\\Pointers.cpp.obj -c C:\\Coding\\LearnC++\\ReferencesAndPointers\\Pointers.cpp",
+  "file": "C:/Coding/LearnC++/ReferencesAndPointers/Pointers.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/ReferencesAndPointers/Pointers.cpp.obj"
+},
+{
+  "directory": "C:/Coding/LearnC++/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Coding/LearnC++/. -IC:/Coding/LearnC++/HelloWorld -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\LearnC__.dir\\ReferencesAndPointers\\ManualMemoryManagement.cpp.obj -c C:\\Coding\\LearnC++\\ReferencesAndPointers\\ManualMemoryManagement.cpp",
+  "file": "C:/Coding/LearnC++/ReferencesAndPointers/ManualMemoryManagement.cpp",
+  "output": "C:/Coding/LearnC++/cmake-build-debug/CMakeFiles/LearnC__.dir/ReferencesAndPointers/ManualMemoryManagement.cpp.obj"
+}
+]
